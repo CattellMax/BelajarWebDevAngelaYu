@@ -1,12 +1,12 @@
 // Data Types in JavaScript
-let name = "John Doe"; // String
-let age = 30; // Number
-let isStudent = true; // Boolean
-let hobbies = ["reading", "traveling", "coding"]; // Array
-let address = { // Object
+var name = "John Doe"; // String
+var age = 30; // Number
+var isStudent = true; // Boolean
+var hobbies = ["reading", "traveling", "coding"]; // Array
+var address = { // Object
     street: "123 Main St",
     city: "Anytown",
     country: "USA"
 };
-let nullValue = null; // Null
-let undefinedValue; // Undefined
+var nullValue = null; // Null
+var undefinedValue; // Undefined
